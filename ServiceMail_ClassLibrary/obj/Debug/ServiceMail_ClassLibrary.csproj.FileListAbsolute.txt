@@ -1,0 +1,7 @@
+C:\Users\kira_\source\repos\ServicioMail\ServiceMail_ClassLibrary\bin\Debug\ServiceMail_ClassLibrary.dll.config
+C:\Users\kira_\source\repos\ServicioMail\ServiceMail_ClassLibrary\bin\Debug\ServiceMail_ClassLibrary.dll
+C:\Users\kira_\source\repos\ServicioMail\ServiceMail_ClassLibrary\bin\Debug\ServiceMail_ClassLibrary.pdb
+C:\Users\kira_\source\repos\ServicioMail\ServiceMail_ClassLibrary\obj\Debug\ServiceMail_ClassLibrary.csproj.AssemblyReference.cache
+C:\Users\kira_\source\repos\ServicioMail\ServiceMail_ClassLibrary\obj\Debug\ServiceMail_ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kira_\source\repos\ServicioMail\ServiceMail_ClassLibrary\obj\Debug\ServiceMail_ClassLibrary.dll
+C:\Users\kira_\source\repos\ServicioMail\ServiceMail_ClassLibrary\obj\Debug\ServiceMail_ClassLibrary.pdb

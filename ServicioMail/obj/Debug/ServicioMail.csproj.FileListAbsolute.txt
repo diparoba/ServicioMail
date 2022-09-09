@@ -1,0 +1,12 @@
+C:\Users\kira_\source\repos\ServicioMail\ServicioMail\bin\Debug\ServicioMail.exe.config
+C:\Users\kira_\source\repos\ServicioMail\ServicioMail\bin\Debug\ServicioMail.exe
+C:\Users\kira_\source\repos\ServicioMail\ServicioMail\bin\Debug\ServicioMail.pdb
+C:\Users\kira_\source\repos\ServicioMail\ServicioMail\bin\Debug\ServiceMail_ClassLibrary.dll
+C:\Users\kira_\source\repos\ServicioMail\ServicioMail\bin\Debug\ServiceMail_ClassLibrary.pdb
+C:\Users\kira_\source\repos\ServicioMail\ServicioMail\bin\Debug\ServiceMail_ClassLibrary.dll.config
+C:\Users\kira_\source\repos\ServicioMail\ServicioMail\obj\Debug\ServicioMail.csproj.AssemblyReference.cache
+C:\Users\kira_\source\repos\ServicioMail\ServicioMail\obj\Debug\ServicioMail.csproj.SuggestedBindingRedirects.cache
+C:\Users\kira_\source\repos\ServicioMail\ServicioMail\obj\Debug\ServicioMail.csproj.CoreCompileInputs.cache
+C:\Users\kira_\source\repos\ServicioMail\ServicioMail\obj\Debug\ServicioMail.csproj.CopyComplete
+C:\Users\kira_\source\repos\ServicioMail\ServicioMail\obj\Debug\ServicioMail.exe
+C:\Users\kira_\source\repos\ServicioMail\ServicioMail\obj\Debug\ServicioMail.pdb

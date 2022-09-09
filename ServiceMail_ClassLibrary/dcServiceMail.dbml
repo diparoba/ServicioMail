@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ServicioEmail" Class="dcServiceMailDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\SQLEXPRESS;Initial Catalog=ServicioEmail;Integrated Security=True" SettingsObjectName="ServiceMail_ClassLibrary.Properties.Settings" SettingsPropertyName="ServicioEmailConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.DBO_EMAIL" Member="DBO_EMAILs">
+    <Type Name="DBO_EMAIL">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="FECHA" Type="System.DateTime" DbType="Date" CanBeNull="true" />
+      <Column Name="CORREO" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="STATUSSEND" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="STATUSERROR" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="MESSAGEERROR" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="STATUS" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.DBO_SERVER" Member="DBO_SERVERs">
+    <Type Name="DBO_SERVER">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="SMTP" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="USERNAME" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="PASSWORD" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="PORT" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="STATUS" Type="System.Char" DbType="Char(1)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="dcServiceMail">
+  <DataContextMoniker Name="/dcServiceMailDataContext" />
+  <nestedChildShapes>
+    <classShape Id="59603a1c-4de2-4b38-a07f-f1dd6ef91bf1" absoluteBounds="0.75, 0.75, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/dcServiceMailDataContext/DBO_EMAIL" />
+      <nestedChildShapes>
+        <elementListCompartment Id="09ee3ada-b54b-4161-8071-94bf90f2c656" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e30b9a52-7f22-4ac4-965e-fe437a7d7ffe" absoluteBounds="3.75, 0.75, 2, 1.9631982421875">
+      <DataClassMoniker Name="/dcServiceMailDataContext/DBO_SERVER" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3efd711e-055f-4a42-bd1d-3ff126236878" absoluteBounds="3.765, 1.21, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
